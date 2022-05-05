@@ -1,4 +1,4 @@
 public class FeatureB {
-    //new
-    //new
+    //new line
+    //new line
 }
