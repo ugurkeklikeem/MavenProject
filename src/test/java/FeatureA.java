@@ -3,4 +3,5 @@ public class FeatureA {
     //new linee
     //new line
     //last commit
+    //last
 }
